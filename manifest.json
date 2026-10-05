@@ -1,0 +1,36 @@
+{
+  "name": "سليم أبو عبد الرحمن - ماكينات تصنيع وصيانة",
+  "short_name": "SMH ماكينات",
+  "description": "كتالوج ومواصفات السير الناقل الصناعي ومعدات التصنيع والتحكم VFD من سليم أبو عبد الرحمن",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0f1d",
+  "theme_color": "#d97706",
+  "dir": "rtl",
+  "lang": "ar",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "categories": [
+    "business",
+    "productivity",
+    "utilities"
+  ]
+}
